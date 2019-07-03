@@ -1,6 +1,6 @@
 # leetcode-solutions 
 
-[![Build Status](https://travis-ci.com/boluny/leetcode-solutions.svg?branch=bolun-personal)](https://travis-ci.com/boluny/leetcode-solutions)
+[![Build Status](https://travis-ci.org/boluny/leetcode-solutions.svg?branch=master)](https://travis-ci.org/boluny/leetcode-solutions)
 
 ## How to contribute 
 
